@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://yixianzi.github.io/test-l",
   "dependencies": {
+    "antd": "^3.24.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
